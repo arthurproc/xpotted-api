@@ -1,2 +1,2 @@
 # xpotted-api
-Rest API for the Xpotted system
+Rest API for the Xpotted
